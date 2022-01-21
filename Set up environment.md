@@ -1,0 +1,3 @@
+- [Pip Wheels](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pip-wheels-installation-linux)
+- [cuDNN](https://towardsdatascience.com/installing-tensorflow-gpu-in-ubuntu-20-04-4ee3ca4cb75d)
+- 
